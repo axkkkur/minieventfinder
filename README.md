@@ -81,4 +81,4 @@ mini-event-finder/
 
 ---
 
-**Happy Coding! 🚀**
+
